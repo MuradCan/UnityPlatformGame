@@ -19,4 +19,5 @@ Daha anlaşılır olması için kod parçalarını ayrı ayrı oluşturdum.
 -Toplama (Coin collect)
 -UI
 
-![Uploading ezgif.com-video-to-gif (2).gif…]()
+![2dPlatform](https://user-images.githubusercontent.com/56815816/110940107-6ed06580-8347-11eb-8627-78b6c19542c0.gif)
+
